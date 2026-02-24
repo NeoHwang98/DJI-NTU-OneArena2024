@@ -84,7 +84,7 @@ Install via Arduino Library Manager:
 ### 1. Clone
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NeoHwang98/DJI-NTU-OneArena2024
 cd "NTU OneArena 2024 Robotic Maze"
 ```
 
@@ -108,15 +108,3 @@ cd "NTU OneArena 2024 Robotic Maze"
 - Marker IDs and behavior mapping are embedded in `corefunc(...)` within each route script.
 - Distance thresholds in pickup/drop/door logic are hardware-specific and should be re-tuned after mechanical changes.
 - `BlackType1.ino` currently includes an extra empty `setup()`/`loop()` block at the end; clean this before production upload.
-
-## Team Context
-
-OneArena Robotics, NTU College of Engineering (Sep 2023 to Jun 2024)
-
-- Robotics Tech Lead (team of 10)
-- Built autonomous navigation and marker-tracking control stack for DJI RoboMaster platform
-- Competition design and technical implementation for a pre-university robotics event (120+ participants)
-
-## License
-
-This project is distributed under the MIT License. See `LICENSE`.
