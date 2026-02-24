@@ -6,6 +6,8 @@ Autonomous maze-solving stack for the NTU OneArena robotics competition (Sep 202
 - Arduino firmware for IR-triggered motorized door control
 - Supporting maze sketches and route plans
 
+OneArena is a team-based workshop and competition introducing pre-university students in Singapore to robotics and coding through interdisciplinary problem-solving.
+
 ## Project Highlights
 
 - Visual-marker-guided autonomous navigation with PID-based alignment
